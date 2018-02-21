@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@slack/client": "^3.16.0"
+    "@slack/client": "^3.16.0",
+    "base-64": "^0.1.0",
+    "node-fetch": "^2.0.0",
+    "spotify-web-api-node": "^2.5.0"
   }
 }
